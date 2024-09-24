@@ -1,7 +1,7 @@
 # Summary
 
-[Integrations](./integrations/index.md)
+[Integrations](./index.md)
 
-- [Wallets](./integrations/wallet.md)
-- [Indexers](./integrations/indexer.md)
-- [Oracles](./integrations/oracles.md)
+- [Wallets](./wallet.md)
+- [Indexers](./indexer.md)
+- [Oracles](./oracles.md)
