@@ -11,3 +11,9 @@ You can learn more [here](https://docs.envio.dev/docs/HyperIndex/tutorial-indexi
 SQD enables permissionless, cost-efficient access to petabytes of high-value Web3 data.
 
 You can learn more [here](https://docs.sqd.dev/fuel-indexing/)
+
+## Pangea
+
+Pangea provides access to fine-grained real-time and historical data.
+
+You can learn more [here](https://docs.pangea.foundation/chain-data/fuel/fuel.html)
