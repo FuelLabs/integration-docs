@@ -26,10 +26,9 @@ jobs:
         uses: actions/checkout@v3
       - uses: gaurav-nelson/github-action-markdown-link-check@1.0.12
 
-  # TODO: uncomment once this is merged in master and added to docshub
-  # docs-hub-check:
-  #   name: Docs Hub Checks
-  #   uses: FuelLabs/github-actions/.github/workflows/mdbook-docs.yml@master
-  #   with:
-  #     docs-src-path: 'docs/src'
-  #     spellcheck-config-path: 'docs/.spellcheck.yml'
+  docs-hub-check:
+    name: Docs Hub Checks
+    uses: FuelLabs/github-actions/.github/workflows/mdbook-docs.yml@master
+    with:
+      docs-src-path: 'docs/src'
+      spellcheck-config-path: 'docs/.spellcheck.yml'
