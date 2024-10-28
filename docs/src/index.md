@@ -8,7 +8,7 @@ This section provides help for developers using integrations with Fuel's tech st
 
 Fuelet is the leading account abstraction and non-custodial wallet on Fuel.
 
-[More info](https://fuelet.app/)
+[More info](https://docs.fuelet.app/)
 
 ### Fuel
 
