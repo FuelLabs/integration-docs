@@ -56,6 +56,12 @@ Redstone provides modular oracles tailored to your decentralized applications.
 
 [More info](https://github.com/redstone-finance/redstone-oracles-monorepo/blob/main/packages/fuel-connector/README.md)
 
+## Stork
+
+Stork provides ultra-low latency price feeds with high uptime and reliability for perpetuals markets, lending protocols, and DeFi applications.
+
+[More info](https://docs.stork.network/)
+
 ## RPCs
 
 ### QuickNode
